@@ -13,4 +13,4 @@ Conseguimos ver que com poucas linhas de código temos uma aplicação com HTML,
 
 # clique na imagem abaixo e faça o sorteio de 6 números para você testar sua chance na Mega-Sena.
 
-![Anotação 2022-11-09 214731][(https://user-images.githubusercontent.com/61170444/200973150-577c9651-9a68-4d19-9589-314b45d15039.png)(https://caioassis-dev.github.io/SorteioMegaSena/)]
+[![Anotação 2022-11-09 214731](https://user-images.githubusercontent.com/61170444/200973150-577c9651-9a68-4d19-9589-314b45d15039.png)](https://caioassis-dev.github.io/SorteioMegaSena/)
