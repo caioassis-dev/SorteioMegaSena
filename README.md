@@ -1,4 +1,4 @@
-# Sorteio - MegaSena
+# 💲 Sorteio - MegaSena 💲
 
 Uma aplicação básica criada com VUE.JS para estudo do framework, a estilização da pagina está bem simples. Pois a intenção era de verificar como que o framework funciona.
 
